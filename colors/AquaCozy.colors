@@ -1,0 +1,144 @@
+# Format: R,G,B. Goes in ~/.local/share/color-schemes/
+
+# disabled elements
+[ColorEffects:Disabled]
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+IntensityAmount=0.1
+IntensityEffect=2
+
+# inactive windows
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+# buttons
+[Colors:Button]
+BackgroundAlternate=214,214,214
+BackgroundNormal=226,226,226
+DecorationFocus=56,117,215
+DecorationHover=56,117,215
+ForegroundActive=56,117,215
+ForegroundInactive=130,130,130
+ForegroundLink=40,100,200
+ForegroundNegative=200,50,50
+ForegroundNeutral=200,130,30
+ForegroundNormal=38,38,38
+ForegroundPositive=50,150,70
+ForegroundVisited=120,80,170
+
+# contrasts
+[Colors:Complementary]
+BackgroundAlternate=40,40,40
+BackgroundNormal=48,48,48
+DecorationFocus=56,117,215
+DecorationHover=56,117,215
+ForegroundActive=110,165,245
+ForegroundInactive=150,150,150
+ForegroundLink=110,165,245
+ForegroundNegative=235,90,90
+ForegroundNeutral=230,160,70
+ForegroundNormal=235,235,235
+ForegroundPositive=90,190,110
+ForegroundVisited=170,140,220
+
+# headers
+[Colors:Header]
+BackgroundAlternate=222,222,222
+BackgroundNormal=230,230,230
+DecorationFocus=56,117,215
+DecorationHover=56,117,215
+ForegroundActive=56,117,215
+ForegroundInactive=130,130,130
+ForegroundLink=40,100,200
+ForegroundNegative=200,50,50
+ForegroundNeutral=200,130,30
+ForegroundNormal=38,38,38
+ForegroundPositive=50,150,70
+ForegroundVisited=120,80,170
+
+# selections
+[Colors:Selection]
+BackgroundAlternate=40,100,200
+BackgroundNormal=56,117,215
+DecorationFocus=56,117,215
+DecorationHover=56,117,215
+ForegroundActive=255,255,255
+ForegroundInactive=220,230,250
+ForegroundLink=255,255,255
+ForegroundNegative=255,200,200
+ForegroundNeutral=255,230,180
+ForegroundNormal=255,255,255
+ForegroundPositive=200,255,210
+ForegroundVisited=230,215,255
+
+# tooltips
+[Colors:Tooltip]
+BackgroundAlternate=240,240,240
+BackgroundNormal=250,250,250
+DecorationFocus=56,117,215
+DecorationHover=56,117,215
+ForegroundActive=56,117,215
+ForegroundInactive=130,130,130
+ForegroundLink=40,100,200
+ForegroundNegative=200,50,50
+ForegroundNeutral=200,130,30
+ForegroundNormal=38,38,38
+ForegroundPositive=50,150,70
+ForegroundVisited=120,80,170
+
+# content view
+[Colors:View]
+BackgroundAlternate=247,247,247
+BackgroundNormal=255,255,255
+DecorationFocus=56,117,215
+DecorationHover=56,117,215
+ForegroundActive=56,117,215
+ForegroundInactive=130,130,130
+ForegroundLink=40,100,200
+ForegroundNegative=200,50,50
+ForegroundNeutral=200,130,30
+ForegroundNormal=30,30,30
+ForegroundPositive=50,150,70
+ForegroundVisited=120,80,170
+
+# window background
+[Colors:Window]
+BackgroundAlternate=224,224,224
+BackgroundNormal=236,236,236
+DecorationFocus=56,117,215
+DecorationHover=56,117,215
+ForegroundActive=56,117,215
+ForegroundInactive=130,130,130
+ForegroundLink=40,100,200
+ForegroundNegative=200,50,50
+ForegroundNeutral=200,130,30
+ForegroundNormal=38,38,38
+ForegroundPositive=50,150,70
+ForegroundVisited=120,80,170
+
+# general properties
+[General]
+ColorScheme=AquaCozy
+Name=Aqua Cozy
+shadeSortColumn=true
+
+[KDE]
+contrast=4
+
+# wm colors
+[WM]
+activeBackground=236,236,236
+activeForeground=38,38,38
+inactiveBackground=242,242,242
+inactiveForeground=130,130,130
